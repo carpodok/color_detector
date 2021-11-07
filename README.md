@@ -4,7 +4,7 @@
 
 ## :trident: About content of the project  <br>
 
-Color Detector project contains 3 file which are ; <br>
+:file_folder: Color Detector project contains 3 file which are ; <br>
 
 :small_orange_diamond: <b>Detection.py :</b> Main class of this project. 
   <br>
@@ -17,7 +17,7 @@ Color Detector project contains 3 file which are ; <br>
 :radio_button: Color Detector project detects the color on the picture with double clicking.Operating logic is pretty simple.You double click anywhere in the picture and the program find the color from colors.cvs file.
 
 ## :books: Libraries
-   <em>OpenCV</em>, <em>Pandas</em>, and<em> numpy</em> are the Python packages that are necessary for this project in Python. To install them, simply run this pip command in your terminal:
+ :round_pushpin:  <em>OpenCV</em>, <em>Pandas</em>, and<em> numpy</em> are the Python packages that are necessary for this project in Python. To install them, simply run this pip command in your terminal:
 
 ```` 
 
@@ -43,14 +43,14 @@ pip install opencv-python numpy pandas
    
    <br>
    
- :white_medium_square: <b>First you'll see like this when you run the above command line; </b>
+ :radio_button: <b>First you'll see like this when you run the above command line; </b>
    
    
    <img src="https://user-images.githubusercontent.com/64840495/140634791-c8e00140-4307-49a2-b43a-7c66c146b2eb.PNG"/>
    
    <br>
    
-  :white_medium_square:<b>And after double-clicking where you want; </b>
+ :radio_button: <b>And after double-clicking where you want; </b>
    
   <img src="https://user-images.githubusercontent.com/64840495/140634875-0ce3d1d8-5c7e-43fd-a058-05ac8262c97d.PNG"/>
 
