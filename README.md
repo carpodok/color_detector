@@ -36,7 +36,7 @@ pip install opencv-python numpy pandas
   < your project path >python Detection.py -i picture.jpg
   ```` 
   
-  Or ;
+ <b> Or ; </b>
    ```` 
   < your project path >python Detection.py -i <your image path>
    ```` 
@@ -50,7 +50,7 @@ pip install opencv-python numpy pandas
    
    <br>
    
-  :white_medium_square:<b>And after double clicked ; </b>
+  :white_medium_square:<b>And after double-clicking where you want; </b>
    
   <img src="https://user-images.githubusercontent.com/64840495/140634875-0ce3d1d8-5c7e-43fd-a058-05ac8262c97d.PNG"/>
 
