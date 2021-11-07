@@ -2,8 +2,19 @@
 
 <img src="https://www.pnglib.com/wp-content/uploads/2020/01/holi-color-backgroundture_5e13a861582e6.png" wifth=100%/>
 
+###  About content of the project  <br>
 
-### :information_source: What do this project do :question: <br>
+Color Detector project contains 3 file which are ; <br>
+
+:small_orange_diamond: <b>Detection.py :</b> Main class of this project. 
+  <br>
+:small_orange_diamond: <b>colors.csv :</b> The csv file containing the color data to be found.
+  <br>
+:small_orange_diamond: <b>picture.jpg :</b> Picture we use  in this project. You can insert another picture to the project or just give its path from command prompt. 
+  <br>
+
+
+###  What do this project do :question: <br>
 :radio_button: Color Detector project detects the color on the picture with double clicking.Operating logic is pretty simple.You double click anywhere in the picture and the program find the color from colors.cvs file.
 
 ### :books: Libraries
@@ -16,9 +27,9 @@
 pip install opencv-python numpy pandas
 
 ````
-:small_blue_diamond: <b> OpenCV </b> : it's an image and video processing library. <br>
-:small_blue_diamond: <b> Pandas </b> : to perform operations on data files. <br>
-:small_blue_diamond: <b> argparse</b> : to give image from command prompt. <br>
+:small_blue_diamond: <b> OpenCV </b> : It's an image and video processing library. <br>
+:small_blue_diamond: <b> Pandas </b> : To perform operations on data files. <br>
+:small_blue_diamond: <b> argparse</b> : To givea an image from command prompt. <br>
  
   
 ###  How to run :question: <br>
@@ -33,6 +44,21 @@ pip install opencv-python numpy pandas
   < your project path >python Detection.py -i <your image path>
    ```` 
    
+   <br>
+   
+ <b>First you'll see like this ; </b>
+   
+   
+   <img src="https://user-images.githubusercontent.com/64840495/140634791-c8e00140-4307-49a2-b43a-7c66c146b2eb.PNG"/>
+   
+   <br>
+   
+   :arrow_down_small:<b>And after double clicked ; </b>
+   
+  <img src="https://user-images.githubusercontent.com/64840495/140634875-0ce3d1d8-5c7e-43fd-a058-05ac8262c97d.PNG"/>
+
+
+   
   ### :heavy_plus_sign: Details
   
-  :white_check_mark: If you want to more details about this project, check my<a href="https://medium.com/p/da166b2af6ee/edit"> Medium </a> account where I explain this project
+  :link: If you want to more details about this project, check my<a href="https://medium.com/p/da166b2af6ee/edit"> Medium </a> account where I explain this project
