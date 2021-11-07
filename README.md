@@ -54,8 +54,8 @@ pip install opencv-python numpy pandas
    
   <img src="https://user-images.githubusercontent.com/64840495/140634875-0ce3d1d8-5c7e-43fd-a058-05ac8262c97d.PNG"/>
 
-
+<!--
    
   ## :heavy_plus_sign: Details
   
-  :link: If you want to more details about this project, check my<a href="https://medium.com/p/da166b2af6ee/edit"> Medium </a> account where I explain this project
+  :link: If you want to more details about this project, check my<a href="https://medium.com/p/da166b2af6ee/edit"> Medium </a> account where I explain this project  -->
