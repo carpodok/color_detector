@@ -58,4 +58,4 @@ pip install opencv-python numpy pandas
    
   ## :heavy_plus_sign: Details
   
-  :link: If you want to more details about this project, check my<a href="https://medium.com/p/da166b2af6ee/edit"> Medium </a> account where I explain this project  -->
+  :link: If you want to more details about this project, check my<a href="https://medium.com/p/da166b2af6ee/edit"> article </a> in my Medium account where I explain this project  -->
